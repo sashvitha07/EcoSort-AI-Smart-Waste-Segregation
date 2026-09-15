@@ -1,0 +1,11 @@
+{
+  "name": "EcoSort AI – Smart Waste Segregation and Monitoring System",
+  "description": "Smart Waste Segregation and Monitoring System with real-time camera scanning, AI classification (biodegradable vs non-biodegradable), street dustbin tracking, GPS remote location monitoring, alerts, and complete Jetpack Compose Android source code.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
